@@ -1,0 +1,30 @@
+{
+  "name": "urbandictionarybot",
+  "version": "1.0.0",
+  "description": "The Urban Dictionary bot provides you the Urban Dictionary \"definition\" of a word. Just ask!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farbodsaraf/urbandictionarybot.git"
+  },
+  "keywords": [
+    "bot",
+    "urban",
+    "dictionary",
+    "messenger"
+  ],
+  "author": "Sandoche, Farbod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farbodsaraf/urbandictionarybot/issues"
+  },
+  "homepage": "https://github.com/farbodsaraf/urbandictionarybot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  }
+}
